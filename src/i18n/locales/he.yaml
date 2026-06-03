@@ -271,13 +271,13 @@ flow_step4: "הקלדת קוד האימות האישי"
 # social_callout_facebook_7: "Google is retroactively locking down billions of devices that were sold as open platforms. This 'rug pull' threatens independent developers and alternative app stores like F-Droid. {url}"
 # social_callout_facebook_8: "Is your phone really yours? If Google can decide which apps you're allowed to install, the answer is no. Join the 100,000+ people fighting to keep Android open. {url}"
 # social_callout_facebook_9: "Google's 9-step process for 'allowing' unverified apps is a trap. It's designed to be so difficult that nobody uses it, giving Google total control. {url}"
-# social_callout_facebook_10: "From students building their first apps to volunteers creating privacy tools, Google's mandatory registration policy will freeze out innovation. Help us keep Android open! {url}"
+# social_callout_facebook_10: "מתלמידים שבונים את האפליקציות הראשונות שלהם ועד מתנדבים שיוצרים כלי פרטיות, מדיניות הרישום החובה של גוגל תקפיא את החדשנות. עזרו לנו לשמור על אנדרואיד פתוחה! {url}"
 
 # Social button labels
 spread_label_x: "פרסום ב־X"
 spread_label_mastodon: "פרסום במסטודון"
 spread_label_bluesky: "פרסום ב־Bluesky"
-spread_label_linkedin: "LinkedIn"
+spread_label_linkedin: "לינקדין"
 spread_label_facebook: "פייסבוק"
 
 # Footer
